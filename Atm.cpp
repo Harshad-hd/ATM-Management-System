@@ -1,8 +1,8 @@
 // C++ program to implement the ATM
 // Management System
-#include<iostream>
-#include<stdlib.h>
-#include<string.h>
+#include <iostream>
+#include <stdlib.h>
+#include <string.h>
 using namespace std;
 class Bank {
 
